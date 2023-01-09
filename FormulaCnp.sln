@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaNEP", "FormulaNEP\FormulaNEP.csproj", "{9DF576F9-BB1E-4FFB-ABAD-C55D06E30680}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaCnp", "FormulaNEP\FormulaCnp.csproj", "{9DF576F9-BB1E-4FFB-ABAD-C55D06E30680}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{508E605F-AE95-4347-8224-900A6764EF59}"
 	ProjectSection(SolutionItems) = preProject
