@@ -1,4 +1,4 @@
-﻿namespace NEP
+﻿namespace Cnp
 {
     /// <summary>
     /// combinações - C n,p
@@ -17,7 +17,7 @@
 
             await Task.Run(() =>
             {
-                decimal resultadoNEP = 1 / NEP(combinacoes, tomadas) ;
+                decimal resultadoNEP = 1 / Cnp(combinacoes, tomadas) ;
                 Console.WriteLine($"\nProbabilidade de acerto é de {Math.Round(resultadoNEP,12)}%");
             });
 
@@ -45,7 +45,7 @@
 
             return fact;
         }
-        private static decimal NEP(int n, int p)
+        private static decimal Cnp(int n, int p)
         {
             decimal resultadoNEP;
 
